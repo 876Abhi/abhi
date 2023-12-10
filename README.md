@@ -1,3 +1,3 @@
 # abhi
-my first repo on github<br>
-author - Abhishek Chaudhary
+My First Repo On Github<br>
+Author - Abhishek Chaudhary
