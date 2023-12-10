@@ -2,7 +2,7 @@
 <h1>Author - Abhishek Chaudhary</h1>
 <br>
 <ul >
-  <li>MY first html on github</li>
+  <li>MY first Python on github</li>
 </ul>
 
 
