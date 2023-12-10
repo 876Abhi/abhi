@@ -1,5 +1,5 @@
 # Python-code
-<h1>Author - Abhishek Chaudhary</h1>
+<h3>Author - Abhishek Chaudhary</h3>
 <br>
 <ul >
   <li>MY first Python on github</li>
